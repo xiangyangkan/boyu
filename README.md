@@ -1,2 +1,1 @@
-# boyu
-boyu learning
+# 伯禹学习笔记
